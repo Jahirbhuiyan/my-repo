@@ -39,7 +39,7 @@ margin-bottom: 150px;
     background-size: 100%;
 }
 .dream-area{
-    background-image: url("images/dream-bg.png");
+    background-image: url("Images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
     background-size: 8%;
@@ -55,7 +55,7 @@ h2{
     font-size: 25px;
 }
 .experience-area{
-background-image: url("images/exp-bg.png");
+background-image: url("Images/exp-bg.png");
 background-repeat: no-repeat;
 background-position: left;
 background-size: 7%;
