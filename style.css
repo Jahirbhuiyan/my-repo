@@ -1,0 +1,83 @@
+body{
+    Margin: 0;
+    font-family: 'Kalam', cursive;
+}
+h1 span{
+    color: red;
+}
+h1{font-size: 40px;
+}
+p{
+    text-align: justify;
+}
+.flexible-container{
+display: flex;
+margin-bottom: 150px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, red, green);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url("Images/top-banner.png");
+    background-repeat: no-repeat;
+    margin: 0%;
+    background-size: 100%;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 8%;
+    padding:5px
+}
+.color1{
+    color: red;
+}
+.color2{
+    color: green;
+}
+h2{
+    font-size: 25px;
+}
+.experience-area{
+background-image: url("images/exp-bg.png");
+background-repeat: no-repeat;
+background-position: left;
+background-size: 7%;
+}
+.box-item{
+width: 40%;
+box-shadow: lightgreen 10px 10px 40px;
+margin-left: 5%;
+margin-right: 5%;
+padding: 20px;
+border-left: 10px red solid;
+}
+#item1{
+    border-image: linear-gradient(#09a303, #fc2a05) 30;
+
+}
+#item2{
+    border-image: linear-gradient(#f30303, #4d9f0c) 30;
+}
+footer p{
+    text-align: center;
+}
+.alaign{
+    text-align: center;
+}
